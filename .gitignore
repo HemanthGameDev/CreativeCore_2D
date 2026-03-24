@@ -1,0 +1,164 @@
+# =========================
+# Unity Generated Folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# =========================
+# Memory Captures
+# =========================
+MemoryCaptures/
+
+# =========================
+# Asset Import Cache
+# =========================
+Library/Artifacts/
+Library/PackageCache/
+Library/ShaderCache/
+
+# =========================
+# Addressables
+# =========================
+Assets/AddressableAssetsData/*/*.bin*
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/aa/*
+
+# =========================
+# Visual Studio / Rider / VSCode
+# =========================
+.vs/
+.idea/
+.vscode/
+
+# =========================
+# MonoDevelop / JetBrains Rider
+# =========================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Crash Reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Builds (Optional but recommended)
+# =========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.ipa
+
+# =========================
+# IL2CPP Build Files
+# =========================
+il2cpp_cache/
+il2cppOutput/
+
+# =========================
+# Gradle (Android)
+# =========================
+.gradle/
+build/
+
+# =========================
+# Unity Cloud Build
+# =========================
+unitycloudbuild/
+
+# =========================
+# Test Results
+# =========================
+TestResults/
+
+# =========================
+# Addressable Build Data
+# =========================
+Assets/AddressableAssetsData/BuildLayout.txt
+
+# =========================
+# Shader Variant Collections
+# =========================
+*.shadervariants
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Backup Files
+# =========================
+*.bak
+*.backup
+*.old
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+
+# =========================
+# Auto Generated Lighting
+# =========================
+*.lighting
+
+# =========================
+# Rider plugin
+# =========================
+.idea/
+
+# =========================
+# Unity Cache Server
+# =========================
+CacheServer/
+
+# =========================
+# DOTS / ECS Cache
+# =========================
+EntitiesCache/
+
+# =========================
+# Burst Compiler
+# =========================
+Library/BurstCache/
+
+# =========================
+# Git Large File Locking
+# =========================
+*.lock
+
+# =========================
+# Debug Symbols
+# =========================
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+# Misc
+# =========================
+*.stacktrace
