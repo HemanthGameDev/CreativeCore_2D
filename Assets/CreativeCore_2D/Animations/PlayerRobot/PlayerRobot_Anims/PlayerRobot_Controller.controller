@@ -117,7 +117,7 @@ BlendTree:
     m_Mirror: 0
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: 7165a8d930bb84d86a87e993ffb3df93, type: 2}
-    m_Threshold: 0.14285715
+    m_Threshold: 0.10937501
     m_Position: {x: 0, y: 1}
     m_TimeScale: 1
     m_CycleOffset: 0
@@ -125,7 +125,7 @@ BlendTree:
     m_Mirror: 0
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: fcb455162a0f044cca2c328a4b292f55, type: 2}
-    m_Threshold: 0.2857143
+    m_Threshold: 0.21875001
     m_Position: {x: 1, y: 0}
     m_TimeScale: 1
     m_CycleOffset: 0
@@ -133,7 +133,7 @@ BlendTree:
     m_Mirror: 0
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: ed3e5457fceec4342844478a8d6f3e50, type: 2}
-    m_Threshold: 0.42857143
+    m_Threshold: 0.328125
     m_Position: {x: 0, y: -1}
     m_TimeScale: 1
     m_CycleOffset: 0
@@ -141,7 +141,7 @@ BlendTree:
     m_Mirror: 0
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: 1193877f34d5b4ee1b3868b27820a22f, type: 2}
-    m_Threshold: 0.5714286
+    m_Threshold: 0.43750003
     m_Position: {x: 0.67, y: 0.67}
     m_TimeScale: 1
     m_CycleOffset: 0
@@ -149,7 +149,7 @@ BlendTree:
     m_Mirror: 0
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: fd758e9950a2d48458a69ee4858af6f9, type: 2}
-    m_Threshold: 0.71428573
+    m_Threshold: 0.546875
     m_Position: {x: -0.67, y: 0.67}
     m_TimeScale: 1
     m_CycleOffset: 0
@@ -157,7 +157,7 @@ BlendTree:
     m_Mirror: 0
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: b7fd230749e8846a18120ea70ecb3672, type: 2}
-    m_Threshold: 0.85714287
+    m_Threshold: 0.65625
     m_Position: {x: 0.67, y: -0.67}
     m_TimeScale: 1
     m_CycleOffset: 0
@@ -165,7 +165,7 @@ BlendTree:
     m_Mirror: 0
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: 10b805cef6bbe497e88102b47ad84798, type: 2}
-    m_Threshold: 1
+    m_Threshold: 0.765625
     m_Position: {x: -0.67, y: -0.67}
     m_TimeScale: 1
     m_CycleOffset: 0
@@ -174,7 +174,7 @@ BlendTree:
   m_BlendParameter: Look X
   m_BlendParameterY: Look Y
   m_MinThreshold: 0
-  m_MaxThreshold: 1
+  m_MaxThreshold: 0.765625
   m_UseAutomaticThresholds: 1
   m_NormalizedBlendValues: 0
   m_BlendType: 1
